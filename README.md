@@ -4,7 +4,7 @@
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Read 20 pages | 10/20  |
+|  1. Read 20 pages | 20/20  |
 |  2. Learn 1 English word | 1/1  |
 |  3. Solve 1 CodeWars challenge | 1/1  |
 |  4. Watch 1 educational video | 1/1  |
@@ -13,4 +13,4 @@
 |  7. Write 1 subsection of my eBook | Done  |
 |  8. Work on my social media | Done  |
 
-Result: 6/8
+Result: 7/8
