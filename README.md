@@ -14,3 +14,24 @@
 |  8. Work on my social media | Done  |
 
 Result: 7/8
+
+Total:
+- 0 projects created
+- 0 articles posted
+- 20 pages read
+- 1 English words learned
+- 1 CodeWars challenges solve
+- 1 educational videos watched
+
+# Day 2 - 02.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20  |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 0/1  |
+|  5. Work on the #1 side project | In process  |
+|  6. Small freelance job | In process  |
+|  7. Work on my eBook | In process  |
+|  8. Work on my social media | In process  |
