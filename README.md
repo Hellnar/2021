@@ -27,11 +27,34 @@ Total:
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Read 20 pages | 0/20  |
-|  2. Learn 1 English word | 0/1  |
-|  3. Solve 1 CodeWars challenge | 0/1  |
-|  4. Watch 1 educational video | 0/1  |
+|  1. Read 20 pages | 6/20  |
+|  2. Learn 1 English word | 1/1  |
+|  3. Solve 1 CodeWars challenge | 1/1  |
+|  4. Watch 1 educational video | 1/1  |
 |  5. Work on the #1 side project | In process  |
 |  6. Small freelance job | In process  |
 |  7. Work on my eBook | In process  |
-|  8. Work on my social media | In process  |
+|  8. Work on my social media | Done  |
+
+Result: 4/8
+
+Total:
+- 0 projects created
+- 0 articles posted
+- 26 pages read
+- 2 English words learned
+- 2 CodeWars challenges solve
+- 2 educational videos watched
+
+# Day 3 - 03.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/34  |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 0/1  |
+|  5. Finish and delpoy project #1 | In process  |
+|  6. Small freelance job | In process  |
+|  7. Work on my eBook | In process  |
+|  8. Work on my social media | In Process  |
