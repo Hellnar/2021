@@ -74,3 +74,4 @@ Result: 5/8
 |  7. Work on my eBook | In process  |
 |  8. Work on my social media | In process  |
 |  9. Full-time job | In process  |
+|  10. Write freelance article | In process  |
