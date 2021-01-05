@@ -65,13 +65,15 @@ Result: 5/8
 
 | Goal  | Status  |
 | :------------ | :------------ |
-|  1. Read 44 pages | 0/44  |
+|  1. Read 44 pages | 21/44  |
 |  2. Learn 1 English word | 0/1  |
 |  3. Solve 1 CodeWars challenge | 0/1  |
-|  4. Watch 1 educational video | 0/1  |
-|  5. Finish and delpoy project #1 | In process  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Finish and delpoy project #1 | Done  |
 |  6. Small freelance job | In process  |
 |  7. Work on my eBook | In process  |
-|  8. Work on my social media | In process  |
-|  9. Full-time job | In process  |
-|  10. Write freelance article | In process  |
+|  8. Work on my social media | Done  |
+|  9. Full-time job | Done  |
+|  10. Write freelance article | Canceled  |
+
+
