@@ -95,3 +95,19 @@ Result 7/9
 |  11. Write freelance article | Done  |
 
 Result: 5/11
+
+# Day 6 - 06.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20  |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 0/1  |
+|  5. Work on project #2 | In process  |
+|  6. Small freelance job | In process  |
+|  7. Work on my eBook | In process  |
+|  8. Work on my social media | In process  |
+|  9. Full-time job | In process  |
+|  10. Work on article #1 | In process  |
+|  11. Write freelance article | In process  |
