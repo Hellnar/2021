@@ -104,13 +104,294 @@ Result: 5/11
 |  2. Learn 1 English word | 0/1  |
 |  3. Solve 1 CodeWars challenge | 0/1  |
 |  4. Watch 1 educational video | 0/1  |
-|  5. Work on project #2 | In process  |
+|  5. Work on project #2 | Done  |
 |  6. Small freelance job | In process  |
-|  7. Work on my eBook | In process  |
-|  8. Work on my social media | In process  |
-|  9. Full-time job | In process  |
+|  7. Work on my eBook | Done  |
+|  8. Work on my social media | Done  |
+|  9. Full-time job | Done  |
 |  10. Work on article #1 | In process  |
-|  11. Write freelance article | In process  |
+|  11. Write freelance article | Done  |
+
+Result 5/11
+
+================================
+
+# Day 7 - 07.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 10/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #2 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 7 - 7.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 4/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 8 - 8.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 4/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+|  8. Write freelance article | Done |
+
+Result: 5/8
+
+# Day 9 - 9.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 4/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 10 - 10.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 4/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 11 - 11.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 4/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+|  8. Write freelance article | Done |
+
+Result: 5/8
+
+# Day 12 - 12.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+|  8. Write freelance article | Done |
+
+Result: 5/8
+
+# Day 13 - 13.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+|  8. Write freelance article | Done |
+
+Result: 5/8
+
+# Day 14 - 14.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 4/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+|  8. Write freelance article | Done |
+
+Result: 5/8
+
+# Day 15 - 15.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 4/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 16 - 16.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 17 - 17.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 18 - 18.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 19 - 19.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+|  8. Write freelance article | Done |
+
+Result: 5/8
+
+# Day 20 - 20.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 21 - 21.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+|  8. Write freelance article | Done |
+
+Result: 5/8
+
+# Day 22 - 22.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+|  8. Write freelance article | Done |
+
+Result: 5/8
+
+# Day 23 - 23.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 4/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+# Day 24 - 24.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 10/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my eBook | Done  |
+|  7. Work on my social media | Done |
+
+Result: 4/7
+
+Result: 6/11
+===============================
 
 
 # Day 25 - 25.01.2021
