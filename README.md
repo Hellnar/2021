@@ -147,3 +147,34 @@ Result: 6/11
 
 Result: 5/9
 
+# Day 27 - 27.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 1/1  |
+|  5. Work on project #3 | Done |
+|  6. Work on my social media | Done |
+|  7. Full-time job | Done  |
+|  8. Work on article #1 | In process  |
+|  9. Write freelance article | Done |
+
+Result: 5/9
+
+# Day 28 - 28.01.2021
+
+| Goal  | Status  |
+| :------------ | :------------ |
+|  1. Read 20 pages | 0/20 |
+|  2. Learn 1 English word | 0/1  |
+|  3. Solve 1 CodeWars challenge | 0/1  |
+|  4. Watch 1 educational video | 0/1  |
+|  5. Work on project #3 | In process |
+|  6. Work on my social media | In process |
+|  7. Full-time job | In process  |
+|  8. Work on article #1 | In process  |
+|  9. Write freelance article | In process |
+|  10. Learn more about Apexcharts | In process |
+
